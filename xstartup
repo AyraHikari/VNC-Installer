@@ -1,0 +1,4 @@
+/.vnc/xstartup
+#!/bin/bash
+startxfce4 &
+xrdb $HOME/.Xresources
